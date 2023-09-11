@@ -12,13 +12,13 @@ I have also taken an interest in Psychology.
 
 ## Currently Learning
 
-![C++](https://img.shields.io/badge/C%2B%2B_(come_semester_2%2C_early_2024)-black?style=for-the-badge&logo=c%2B%2B)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![Linux](https://img.shields.io/badge/Linux_(Primarily_on_Arch--based_systems)-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B_(come_semester_2%2C_early_2024)-violet?style=for-the-badge&logo=c%2B%2B&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-violet?style=for-the-badge&logo=css3&labelColor=black)
+![Git](https://img.shields.io/badge/Git-violet?style=for-the-badge&logo=git&labelColor=black)
+![Github](https://img.shields.io/badge/Github-violet?style=for-the-badge&logo=github&labelColor=black)
+![HTML](https://img.shields.io/badge/HTML-violet?style=for-the-badge&logo=html5&labelColor=black)
+![Linux](https://img.shields.io/badge/Linux_(Primarily_on_Arch--based_systems)-violet?style=for-the-badge&logo=linux&labelColor=black)
+![Python](https://img.shields.io/badge/Python-violet?style=for-the-badge&logo=python&labelColor=black)
 
 ## Github Stats
 
