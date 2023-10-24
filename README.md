@@ -3,7 +3,6 @@
 Hiya, welcome to my profile!
 
 I am a High School student with an interest in computer science and engineering, as you can imagine. I have daily driven Manjaro Linux since about early 2022.
-I have also taken an interest in Psychology.
 
 ## Education
 
