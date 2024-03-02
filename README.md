@@ -6,12 +6,10 @@ I am a High School student with an interest in computer science and engineering,
 
 ## Education
 
-- I'm not telling you my schooling.
 - Primarily self-taught in terms of computer science and engineering.
 
 ## Currently Learning
 
-![C++](https://img.shields.io/badge/C%2B%2B_(come_semester_2%2C_early_2024)-darkviolet?style=for-the-badge&logo=c%2B%2B&logoColor=violet&labelColor=black)
 ![CSS](https://img.shields.io/badge/CSS-darkviolet?style=for-the-badge&logo=css3&logoColor=violet&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-darkviolet?style=for-the-badge&logo=git&logoColor=violet&labelColor=black)
 ![Github](https://img.shields.io/badge/Github-darkviolet?style=for-the-badge&logo=github&logoColor=violet&labelColor=black)
