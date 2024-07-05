@@ -20,5 +20,5 @@ I am a High School student with an interest in computer science and engineering,
 
 ## Github Stats
 
-![Cutieguwu's Stats](https://https://github-readme-stats-black-alpha-54.vercel.app/api?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&count_private=true)![Cutieguwu's Top Languages](https://https://github-readme-stats-black-alpha-54.vercel.app/api/top-langs/?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+![Cutieguwu's Stats](https://github-readme-stats-cutieguwus-projects.vercel.app/api?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&count_private=true)![Cutieguwu's Top Languages](https://github-readme-stats-cutieguwus-projects.vercel.app/api/top-langs/?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
