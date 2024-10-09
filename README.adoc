@@ -74,8 +74,9 @@ I am not a fan of "AI", though I do appreciate STT and TTS-only models.
 [%autowidth]
 |===
 | Libraries: Rust
-| image:https://img.shields.io/badge/Bevy-darkviolet?style=for-the-badge&logo=bevy&logoColor=violet&labelColor=black[Bevy]
 | image:https://img.shields.io/badge/asefile-darkviolet?style=for-the-badge&labelColor=black[asefile]
+| image:https://img.shields.io/badge/Bevy-darkviolet?style=for-the-badge&logo=bevy&logoColor=violet&labelColor=black[Bevy]
+| image:https://img.shields.io/badge/buttplug-darkviolet?style=for-the-badge&labelColor=black[buttplug]
 | image:https://img.shields.io/badge/serialport--rs-darkviolet?style=for-the-badge&labelColor=black[serialport-rs]
 | image:https://img.shields.io/badge/ron-darkviolet?style=for-the-badge&labelColor=black[RON]
 | image:https://img.shields.io/badge/serde-darkviolet?style=for-the-badge&labelColor=black[serde]
