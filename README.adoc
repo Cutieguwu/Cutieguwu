@@ -14,11 +14,14 @@ I hope that one day I can actually finish a project and work to maintain it.
 
 I have daily driven Manjaro Linux since about early 2022.
 
-I am not a fan of "AI", though I do appreciate STT and TTS-only models.
+I am not a fan of, nor do I condone the use of "AI", though I do appreciate STT and TTS-only models. I go out of my way to remove AI crap as much as I can. If I can't keep hiding and disabling Github Copilot, I'm moving to Zed the next chance I get.
+
+I do not work nor have any respect for Epic Games. I'm only part of their github organization because I needed to compile UE5 on Linux to do a school project... I hated that project [and the teacher].
 
 == Education
 
-- Primarily self-taught in terms of computer science and engineering.
+- Last year of High School.
+- Primarily self-taught in terms of programming.
 
 == Currently Learning
 [%autowidth, %header, cols=">1, 1", frame=none]
