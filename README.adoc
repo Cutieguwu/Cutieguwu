@@ -4,19 +4,17 @@
 
 Hiya, welcome to my profile!
 
-I am a High School student with an interest in computer science and engineering, as you can imagine. Going the other direction, I also have an interest in Psychology.
+I am a High School student with an interest in computer science and engineering, as you can imagine. Going the other direction, I also have an interest in Psychology and intent to persue this professionally.
 
 Although I have a rather extensive list below of libraries that I have used/do use, my overall comprehension of them is limited. Rust libraries in particular as I am just getting started with the language. The table is more a reference for myself to jog my memory about stuff.
 
-As much I as upload projects to Github, none of them ever actually get finished. They have short spurts of rapid development and then I get burnt out, and I restart my obsessive-compulsive cycle elsewhere.
+As much I as upload projects to Github, none of them ever actually get finished. They have short spurts of rapid development and then I get burnt out. I hope that one day I can actually finish a project and work to maintain it.
 
-I hope that one day I can actually finish a project and work to maintain it.
+I have daily driven Manjaro Linux since about early 2022. Yes, I know that's icky, but Manjaro has served me well, and I just don't have the time to migrate to pure arch.
 
-I have daily driven Manjaro Linux since about early 2022.
+I am not a fan of "vibe coding", nor do I condone the use of AI, though I do appreciate STT and TTS-only models. I go out of my way to remove AI crap as much as I can. I've mostly left VS Code for Zed so that I can turn all of that junk off.
 
-I am not a fan of, nor do I condone the use of "AI", though I do appreciate STT and TTS-only models. I go out of my way to remove AI crap as much as I can. If I can't keep hiding and disabling Github Copilot, I'm moving to Zed the next chance I get.
-
-I do not work nor have any respect for Epic Games. I'm only part of their github organization because I needed to compile UE5 on Linux to do a school project... I hated that project [and the teacher].
+I do not work nor have any respect for Epic Games. I'm only part of their github organization because I needed to compile UE5 on Linux to do a school project.
 
 == Education
 
@@ -26,6 +24,7 @@ I do not work nor have any respect for Epic Games. I'm only part of their github
 == Currently Learning
 [%autowidth, %header, cols=">1, 1", frame=none]
 |===
+
 | Languages
 | Other
 
@@ -60,34 +59,45 @@ I do not work nor have any respect for Epic Games. I'm only part of their github
 
 == My Utilised Libraries/Libraries I wish to learn.
 
-[%autowidth]
-|===
-| Libraries: Python
-| image:https://img.shields.io/badge/Icecream-darkviolet?style=for-the-badge&labelColor=black[IceCream]
-| image:https://img.shields.io/badge/pendulum-darkviolet?style=for-the-badge&labelColor=black[pendulum]
-| image:https://img.shields.io/badge/Pygame-darkviolet?style=for-the-badge&labelColor=black[Pygame]
-| image:https://img.shields.io/badge/pyo3-darkviolet?style=for-the-badge&labelColor=black[PyO3]
-| image:https://img.shields.io/badge/pyttsx3-darkviolet?style=for-the-badge&labelColor=black[pyttsx3]
-| image:https://img.shields.io/badge/result-darkviolet?style=for-the-badge&labelColor=black[result]
-| image:https://img.shields.io/badge/schedule-darkviolet?style=for-the-badge&labelColor=black[schedule]
-| image:https://img.shields.io/badge/SpeechRecognition-darkviolet?style=for-the-badge&labelColor=black[SpeechRecognition]
-| image:https://img.shields.io/badge/tqdm-darkviolet?style=for-the-badge&labelColor=black[tqdm]
+[%autowidth, %header, cols=">1, 1", frame=none]
 |===
 
-[%autowidth]
-|===
-| Libraries: Rust
+| Python
+| Rust
+
+| image:https://img.shields.io/badge/Icecream-darkviolet?style=for-the-badge&labelColor=black[IceCream]
 | image:https://img.shields.io/badge/asefile-darkviolet?style=for-the-badge&labelColor=black[asefile]
+
+| image:https://img.shields.io/badge/pendulum-darkviolet?style=for-the-badge&labelColor=black[pendulum]
 | image:https://img.shields.io/badge/Bevy-darkviolet?style=for-the-badge&logo=bevy&logoColor=violet&labelColor=black[Bevy]
+
+| image:https://img.shields.io/badge/Pygame-darkviolet?style=for-the-badge&labelColor=black[Pygame]
 | image:https://img.shields.io/badge/buttplug-darkviolet?style=for-the-badge&labelColor=black[buttplug]
-| image:https://img.shields.io/badge/serialport--rs-darkviolet?style=for-the-badge&labelColor=black[serialport-rs]
+
+| image:https://img.shields.io/badge/pyo3-darkviolet?style=for-the-badge&labelColor=black[PyO3]
 | image:https://img.shields.io/badge/ron-darkviolet?style=for-the-badge&labelColor=black[RON]
+
+| image:https://img.shields.io/badge/pyttsx3-darkviolet?style=for-the-badge&labelColor=black[pyttsx3]
 | image:https://img.shields.io/badge/serde-darkviolet?style=for-the-badge&labelColor=black[serde]
+
+| image:https://img.shields.io/badge/result-darkviolet?style=for-the-badge&labelColor=black[result]
+| image:https://img.shields.io/badge/serialport--rs-darkviolet?style=for-the-badge&labelColor=black[serialport-rs]
+
+| image:https://img.shields.io/badge/schedule-darkviolet?style=for-the-badge&labelColor=black[schedule]
+|
+
+| image:https://img.shields.io/badge/SpeechRecognition-darkviolet?style=for-the-badge&labelColor=black[SpeechRecognition]
+|
+
+| image:https://img.shields.io/badge/tqdm-darkviolet?style=for-the-badge&labelColor=black[tqdm]
+|
+
 |===
 
 == Github Stats
 
-[frame=none]
+[%autowidth, cols=">1, 1", frame=none]
 |===
-| image:https://github-readme-stats-cutieguwus-projects.vercel.app/api?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&count_private=true[Cutieguwu's Stats] | image:https://github-readme-stats-cutieguwus-projects.vercel.app/api/top-langs/?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&layout=compact[Cutieguwu's Top Languages]
+| image:https://github-readme-stats-cutieguwus-projects.vercel.app/api?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&count_private=true[Cutieguwu's Stats]
+| image:https://github-readme-stats-cutieguwus-projects.vercel.app/api/top-langs/?username=Cutieguwu&theme=cobalt&show_icons=true&hide_border=false&layout=compact[Cutieguwu's Top Languages]
 |===
