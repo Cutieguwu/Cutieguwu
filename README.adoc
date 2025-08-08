@@ -4,7 +4,7 @@
 
 Hiya, welcome to my profile!
 
-I am a High School student with an interest in computer science and engineering, as you can imagine. Going the other direction, I also have an interest in Psychology and intent to persue this professionally.
+I am a university student with an interest in computer science and engineering, as you can imagine. Going the other direction, I also have an interest in Psychology and intent to persue this professionally.
 
 Although I have a rather extensive list below of libraries that I have used/do use, my overall comprehension of them is limited. Rust libraries in particular as I am just getting started with the language. The table is more a reference for myself to jog my memory about stuff.
 
